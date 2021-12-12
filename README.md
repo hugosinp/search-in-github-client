@@ -1,5 +1,4 @@
 # search-in-github-client
-***
 ## Author : Hugo SINPRASITH
 
 Client-side of the application.  
